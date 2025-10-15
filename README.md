@@ -20,3 +20,4 @@ Copy code
 cd ~/workspaces/-my-react/bmi-app/frontend
 npm install   # ครั้งแรกเท่านั้น
 npm run dev -- --hosttest push Wed Oct 15 04:45:24 UTC 2025
+test push Wed Oct 15 04:46:27 UTC 2025
