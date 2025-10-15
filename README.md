@@ -19,4 +19,4 @@ Copy code
 # เทอร์มินัล B (frontend)
 cd ~/workspaces/-my-react/bmi-app/frontend
 npm install   # ครั้งแรกเท่านั้น
-npm run dev -- --host
+npm run dev -- --hosttest push Wed Oct 15 04:45:24 UTC 2025
